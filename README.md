@@ -1,4 +1,4 @@
-# JPassport, 3DPassport user manager By M.Shams v1.0
+# JPassport, 3DPassport user manager
 3DPassport user manager in 3DExperience platform.
 By this tool, you can easily remove unused or unwanted users from 3DPassport.
 
