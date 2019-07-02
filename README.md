@@ -12,3 +12,8 @@ Examples:
     
 - Delete users by mail wildcard:\
     java -jar JPassport.jar -s 3dexpServer:3dpassdb -u 3dadmin:mypassword -d mail:%unused@domain%
+
+
+
+Download latest release *.JAR file here:
+[https://github.com/mehmet-shams/JPassport/releases]
