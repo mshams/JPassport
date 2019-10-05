@@ -7,6 +7,7 @@
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/ormlite-core-5.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/ormlite-jdbc-5.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/mssql-jdbc-7.2.2.jre8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/java-multibase-v1.0.1.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

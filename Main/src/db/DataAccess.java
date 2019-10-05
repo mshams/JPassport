@@ -3,15 +3,16 @@
  * Contact me: m.shamsj[at]yahoo.com
  */
 
+package db;
+
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.dao.DaoManager;
-import com.j256.ormlite.db.DatabaseType;
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import com.j256.ormlite.stmt.DeleteBuilder;
 import com.j256.ormlite.stmt.Where;
 import com.j256.ormlite.table.DatabaseTableConfig;
-import dto.Table;
-import dto.User;
+import db.dto.Table;
+import db.dto.User;
 
 import java.io.IOException;
 import java.sql.SQLException;

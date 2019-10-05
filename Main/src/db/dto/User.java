@@ -3,7 +3,7 @@
  * Contact me: m.shamsj[at]yahoo.com
  */
 
-package dto;
+package db.dto;
 
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
@@ -58,5 +58,21 @@ public class User {
 
     public static String header() {
         return "[Id:\tMail, FirstName, LastName, UserName]";
+    }
+
+    public String getDs_EMAIL() {
+        return ds_EMAIL;
+    }
+
+    public String getDs_FIRSTNAME() {
+        return ds_FIRSTNAME;
+    }
+
+    public String getDs_LASTNAME() {
+        return ds_LASTNAME;
+    }
+
+    public String getDs_USERNAME() {
+        return ds_USERNAME;
     }
 }

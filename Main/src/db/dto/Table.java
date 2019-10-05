@@ -3,7 +3,7 @@
  * Contact me: m.shamsj[at]yahoo.com
  */
 
-package dto;
+package db.dto;
 
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
