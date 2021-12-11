@@ -1,6 +1,7 @@
 /*
- * Copyright (c) 2019. By Mehmet Shams
- * Contact me: m.shamsj[at]yahoo.com
+ * Copyright (c) 2021. By Muhammad Shams
+ * @author Muhammad Shams - mshamsj@gmail.com
+ * @version 1.0
  */
 
 package setting;
